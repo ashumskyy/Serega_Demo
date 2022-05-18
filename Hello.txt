@@ -1,2 +1,4 @@
 Hello
 World
+What a great day!
+Have fun!
